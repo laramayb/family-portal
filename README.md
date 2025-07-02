@@ -24,10 +24,9 @@ A private web app built with React and Tailwind CSS that allows a small group of
 ---
 ## Setup
 
-- ```bash 
 - Run `npm install`
 - Create a `.env` file and set `VITE_APP_SECRET_PASSWORD=yourpassword` (ex. test123)
 - Run `npm run dev`
 
-![Login screenshot](src/assets/family-portal-login.png)
-![Homepage screenshot](src/assets/family-portal-sample.png)
+<img src="src/assets/family-portal-login.png" alt="Login screenshot" width="300">
+<img src="src/assets/family-portal-sample.png" alt="Homepage screenshot" width="300">
